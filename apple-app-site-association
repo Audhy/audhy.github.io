@@ -1,0 +1,20 @@
+{
+    "webcredentials": {
+        "apps": [
+            "3B3TL398Z3.my.id.audhy.AutoPassword-iOS12"
+        ]
+    },
+    "applinks": {
+        "apps": [
+            "3B3TL398Z3.my.id.audhy.AutoPassword-iOS12"
+        ],
+        "details": [
+            {
+                "appID": "3B3TL398Z3.my.id.audhy.AutoPassword-iOS12",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
